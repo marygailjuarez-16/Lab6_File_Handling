@@ -1,0 +1,10 @@
+CYBERSECURITY INCIDENT REPORT
+========================================
+Student: Juarez (TUPM-26-1843)
+Target Year: 2023
+Total Records in Dataset: 0
+Incidents in Target Year: 0
+Total Financial Loss (USD millions): 0.0
+Average Financial Loss (USD millions): 0.0
+Attack Type Counts: {}
+JSON Summary Backup File: Juarez_TUPM-26-1843_cyber_summary.json
