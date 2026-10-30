@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING REPORT
+---------------------------
+Last Name: Juarez
+Student ID: TUPM-26-1843
+Seed Digit: 3
+ID Sum: 24
+Verification Value: 147
+Dataset Sample Size: 74
+Valid Records: 74
+Average Global Active Power: 4.055
+JSON File: Juarez_TUPM-26-1843_record.json
+Backup File: Juarez_TUPM-26-1843_record.csv

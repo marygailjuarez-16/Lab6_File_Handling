@@ -1,0 +1,5 @@
+Student: Juarez
+Student ID: TUPM-26-1843
+Seed digit: 3
+ID sum: 24
+Verification value: 147
